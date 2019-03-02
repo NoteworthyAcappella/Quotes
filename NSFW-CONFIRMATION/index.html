@@ -1,0 +1,33 @@
+<!DOCTYPE html><html dark invert style="font size: 10px; background-color: #800020;">
+<head>
+  <script>
+    function applyCookie(){
+      document.cookie = "accepted=1; expires=Fri, 1 Jan 2020 00:00:00 GMT";
+    }
+    function RedirectIf(){
+      if (document.cookie.split(';').filter(function(item) {
+      return item.indexOf('accepted=1') >= 0
+      }).length) {
+        window.location = "https://noteworthylhs.ml/Quotes";
+    }
+}
+    }
+  </script>
+  <title>WARNING: NSFW content!</title>
+  <style>
+    @font-face {
+      font-family: Fascinate_Inline;
+      src: url(https://www.noteworthylhs.ml/FascinateInline-Regular.otf)
+    }
+    h1 {color: #40e0d0; text-align: center; font-family: Fascinate_Inline;}
+    .footer {position: fixed; left: 0; bottom: 0; width: 100%; color: #eeee00; text-align: center;}
+  </style>
+</head>
+<body onload="RedirectIf()>
+  <h1>
+    Warning: This page contains text which could be considered NSFW or otherwise inappropriate for certain situations. Please accept that by viewing this page
+  </h1>
+  <button onclick="applyCookie()">I accept</button>
+  <button>I accept but only this once
+</body>
+</html>
