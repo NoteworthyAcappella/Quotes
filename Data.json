@@ -1,2 +1,14 @@
 {
+  "who":["Reed","Juliet","Hannah","Brendan","William","Mor","Will","Madeline","Joe","Zenon","Lydia","Eva","Anika"],
+  "quote":[
+    {
+      "quoteBy":"Reed",
+      "content":"I'd submit my own quotes but I'm humble so somebody else do that for me.",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Hannah",
+      "content":"Do you want to have a platonic threesome?",
+      "nsfw":true
+  ]
 }
