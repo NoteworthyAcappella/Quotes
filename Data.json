@@ -1,5 +1,5 @@
 {
-  "who":["Reed","Juliet","Hannah","Brendan","William","Mor","Will","Madeline","Joe","Zenon","Lydia","Eva","Anika","Madeline","Zoe"],
+  "who":["Diya","Tina","Juliet","Veda","Brendan","Joe","Madeline","Hannah","Will","Reed","William","Mor","Zenon","Hellen","Ty","Lydia","Eva","Anika","Madelyn","Zoe"],
   "quote":[
     {
       "quoteBy":"Reed",
@@ -46,5 +46,30 @@
       "content":"Will let me see your armpit hair",
       "nsfw":false
     },
+    {
+      "quoteBy":"Juliet",
+      "content":"I don't think Freshmen should have opinions",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Juliet",
+      "content":"No swearing in my good Christian suburbs.",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Juliet",
+      "content":"There's an asian person at your door",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Juliet",
+      "content":"I hate it when my dogs have diarrhea hi dad!",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Juliet",
+      "content":"Ty has recommended cancer",
+      "nsfw":false
+    }
   ]
 }
