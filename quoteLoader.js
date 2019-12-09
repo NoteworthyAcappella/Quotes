@@ -51,7 +51,7 @@ function loadQuotes(){
           document.getElementById("bod").innerHTML += "<p>" + theQuotes[k][l] + "</p>";
         }
       }
-      document.getElementById("bod").innerHTML += "<div class=\"home\"><a href=\"https://www.noteworthylhs.ml/\"><img src=\"https://www.noteworthylhs.ml/nworth-n-w-background.png]\"; hight=100px; width=100px; alt=\"home\"></img></a></div>"
+      document.getElementById("bod").innerHTML += "<div class=\"home\"><a href=\"https://www.noteworthylhs.ml/\"><img src=\"https://www.noteworthylhs.ml/nworth-n-w-background.png\"; hight=100px; width=100px; alt=\"home\"></img></a></div>"
     }
   };
   quotes.open("GET", "Data.json", true);
