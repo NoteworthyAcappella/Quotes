@@ -1,5 +1,5 @@
 {
-  "who":["Diya","Tina","Juliet","Veda","Brendan","Joe","Madeline","Hannah","Will","Reed","William","Mor","Zenon","Hellen","Ty","Lydia","Eva","Anika","Madelyn","Zoe"],
+  "who":["Diya","Tina","Juliet","Veda","Brendan","Joe","Madeline","Hannah","Will","Reed","William","Mor","Zenon","Hellen","Ty","Lydia","Eva","Anika","Madelyn","Zoe","anonymous"],
   "quote":[
     {
       "quoteBy":"Reed",
@@ -42,7 +42,7 @@
       "nsfw":false
     },
     {
-      "quoteBy":"Mor",
+      "quoteBy":"anonymous",
       "content":"Will let me see your armpit hair",
       "nsfw":false
     },
@@ -109,6 +109,11 @@
     {
       "quoteBy":"Mor",
       "content":"<i>awkwardly finger guns</i>",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Anika",
+      "content":"It doesn't matter how many sleeps I get",
       "nsfw":false
     }
   ]
