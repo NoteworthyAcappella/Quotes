@@ -2,6 +2,21 @@
   "who":["Diya","Tina","Juliet","Veda","Brendan","Joe","Madeline","Hannah","Will","Reed","William","Mor","Zenon","Hellen","Ty","Lydia","Eva","Anika","Madelyn","Zoe","anonymous"],
   "quote":[
     {
+      "quoteBy":"Anika",
+      "content":"Your children are going to marry each other",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Anika",
+      "content":"I wanna hybernate so bad! I'm not even joking!",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Anika",
+      "content":"She's a piece of...not a good teacher!",
+      "nsfw":false
+    },
+    {
       "quoteBy":"Reed",
       "content":"I'd submit my own quotes but I'm humble so somebody else do that for me.",
       "nsfw":false
@@ -154,6 +169,56 @@
     {
       "quoteBy":"Madeline",
       "content":"They didn't join the cult, they were <i>baptized into</i> the cult",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Joe",
+      "content":"I'm gonna count 'cause I can count to 16",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Joe",
+      "content":"Juliet's getting a migraine and she's not even here",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Joe",
+      "content":"I feel like I saw Juliet in middle school and back then she was normal",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Joe",
+      "content":"I only soloed to strike fear in my competition",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Zenon",
+      "content":"You don't have to be part of the LGBTQ+ community to appreciate Tom Holland's thicc ass",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Lydia",
+      "content":"My body is a bell. Ring it and it will sing.",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Lydia",
+      "content":"Wait, aren't pecs in your arms?",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Lydia",
+      "content":"Most altos are actually sopranos that are depressed",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Eva",
+      "content":"I'm a lottle dumb",
+      "nsfw":false
+    },
+    {
+      "quoteBy":"Eva",
+      "content":"I was on accutane and then I gave birth",
       "nsfw":false
     }
   ]
