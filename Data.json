@@ -302,6 +302,11 @@
       "nsfw":true
     },
     {
+      "quoteby":"Eva",
+      "content":"Like I thought it would be all fun and then you get killed by a cow.",
+      "nsfw":false
+    },
+    {
       "quoteby":"none",
       "content":"",
       "nsfw":false
