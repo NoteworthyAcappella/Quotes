@@ -317,6 +317,11 @@
       "nsfw":true
     },
     {
+      "quoteby":"Zoe",
+      "content":"I think you're capable of arson",
+      "nsfw":false
+    },
+    {
       "quoteby":"none",
       "content":"",
       "nsfw":false
